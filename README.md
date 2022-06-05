@@ -1,5 +1,5 @@
 # TDR100-App
-Measurement GUI for Campbell Scientific TDR100.
+Measurement GUI App for Campbell Scientific TDR100 on Windows and Linux
 
 # Download and use
 - Made for quick acquisition using Windows 7, 10 and maybe 11.
