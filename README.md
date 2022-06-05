@@ -1,5 +1,5 @@
 <p align="center">
-<img src=./logo/tdr100_app.png>
+<img src="./logo/tdr100_app.png" width = 50% >
 </p>
 
 # TDR100-App
