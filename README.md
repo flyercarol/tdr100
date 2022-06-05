@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./logo/tdr100_app.png" width = 50% >
-</p>
+<img src="logo/tdr100_app.png" width = 50% class="center">
 
 # TDR100-App
 Measurement GUI App for Campbell Scientific TDR100 on Windows and Linux.
@@ -32,6 +30,17 @@ I acknowledge the importance of good software to support research, and I note th
 [Quotes above are from Manin(2022)](https://github.com/ManimCommunity/manim)
 
 Currently, the best way to cite TDR100-App is to go to the [repository page and click the "cite this repository" button on the right sidebar](https://github.com/flyercarol/tdr100). This will generate a citation in your preferred format, and will also integrate well with citation managers.
+
+
+# Screenshots
+- Main GUI interface for TDR100-App
+<img src="images/screenshot_v1.0.1.png" width = 50% class="center">
+- You may zoom in with the matplotlib toolbar
+  - Distance and data point axes adjust automatically
+  - Save images or reset the image 
+
+<img src="images/screenshot_v1.0.1_zoom.png" width = 50% class="center">
+
 
 # Future works
 - Advanced TDR spectrum analysis based on literatures below
