@@ -1,10 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: TDR100-App
+message: >-
+  I acknowledge the importance of good software to
+  support research, and I note that research becomes
+  more valuable when it is communicated effectively.
+  To demonstrate the value of TDR100-App, I ask that
+  you cite TDR100-App in your work.
+type: software
 authors:
   - family-names: Ngui
     given-names: Yin Jeh
-    orcid: https://orcid.org/0000-0001-8558-0830
-title: "I acknowledge the importance of good software to support research, and I note that research becomes more valuable when it is communicated effectively. To demonstrate the value of TDR100-App, I ask that you cite TDR100-App in your work."
+    email: yinjeh.ngui@gmail.com
+    affiliation: NYCU
+    orcid: 'https://orcid.org/0000-0001-8558-0830'
 version: 1.0.1
-doi: 10.1088/1361-6501/28/1/015501
 date-released: 2022-06-05
