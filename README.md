@@ -5,12 +5,15 @@
 # TDR100-App
 Measurement GUI App for Campbell Scientific TDR100 on Windows and Linux.
 
-TDR100 is a time-domain reflectometry (TDR) step pulse device that send electromagnetic signals to a tranmission line for time-domain travel time and frequency-domain spectrum analysis. 
+TDR100 is a time-domain reflectometry (TDR) step pulse device that send electromagnetic signals to a tranmission line for time-domain travel time and frequency-domain spectrum analysis. .
+
+Keywords: TDR100, TDR-100, Campbell Scientific, GUI, manual acquisition
 
 # Download and use
 - Made for quick acquisition using Windows 7, 10 and maybe 11.
-- No installation required, download this [latest standalone exe](v1.0.1/tdr100_app.exe) and execute it in Windows environment.
-	- Or head to [latest build](v1.0.1) and view some released files
+- No installation required, download this [latest standalone exe](v1.0.2/tdr100_app.exe) and execute it in Windows environment.
+	- Or head to [latest build](v1.0.2) and view some released files
+	- Previous versions may be identified to have a false positive scan of "Trojan32" by Windows defender, due to the pyinstaller compilation issue
 - Support in Linux is undergoing
 
 # Why this app?
